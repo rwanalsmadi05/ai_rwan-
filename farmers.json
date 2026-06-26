@@ -1,0 +1,108 @@
+{
+  "farmers": [
+    {
+      "id": "F001",
+      "name": "مزرعة أبو أحمد",
+      "owner": "أبو أحمد الزعبي",
+      "city": "جنين",
+      "region": "فلسطين",
+      "lat": 32.4615,
+      "lng": 35.3008,
+      "rating": 4.8,
+      "verified": true,
+      "phone": "+970599000001",
+      "story": "مزرعة عائلية من أرض جنين، نزرع بدون مبيدات منذ ثلاثة أجيال.",
+      "products": [
+        {"id": "P001", "name": "بندورة", "name_en": "Tomatoes", "market_price": 5.0, "fallahy_price": 3.0, "unit": "kg", "quantity": 120, "harvest_date": "2026-06-26", "organic": true, "category": "خضار"},
+        {"id": "P002", "name": "خيار", "name_en": "Cucumber", "market_price": 4.0, "fallahy_price": 2.5, "unit": "kg", "quantity": 80, "harvest_date": "2026-06-26", "organic": true, "category": "خضار"},
+        {"id": "P003", "name": "باذنجان", "name_en": "Eggplant", "market_price": 3.5, "fallahy_price": 2.2, "unit": "kg", "quantity": 60, "harvest_date": "2026-06-25", "organic": false, "category": "خضار"}
+      ]
+    },
+    {
+      "id": "F002",
+      "name": "مزرعة بيت الزيتون",
+      "owner": "أم خالد عودة",
+      "city": "نابلس",
+      "region": "فلسطين",
+      "lat": 32.2211,
+      "lng": 35.2544,
+      "rating": 4.9,
+      "verified": true,
+      "phone": "+970599000002",
+      "story": "زيت زيتون بكر ممتاز من جبال نابلس، عصرة موسم 2026.",
+      "products": [
+        {"id": "P004", "name": "زيت زيتون", "name_en": "Olive Oil", "market_price": 35.0, "fallahy_price": 26.0, "unit": "liter", "quantity": 200, "harvest_date": "2026-06-20", "organic": true, "category": "زيوت"},
+        {"id": "P005", "name": "زعتر بلدي", "name_en": "Wild Thyme", "market_price": 12.0, "fallahy_price": 8.0, "unit": "kg", "quantity": 40, "harvest_date": "2026-06-22", "organic": true, "category": "أعشاب"}
+      ]
+    },
+    {
+      "id": "F003",
+      "name": "مزارع الأغوار",
+      "owner": "محمود الفقهاء",
+      "city": "أريحا",
+      "region": "فلسطين",
+      "lat": 31.8667,
+      "lng": 35.4500,
+      "rating": 4.6,
+      "verified": true,
+      "phone": "+970599000003",
+      "story": "خضار وفواكه الأغوار الطازجة، أرخص لأنها قريبة منك.",
+      "products": [
+        {"id": "P006", "name": "موز", "name_en": "Banana", "market_price": 6.0, "fallahy_price": 4.0, "unit": "kg", "quantity": 150, "harvest_date": "2026-06-24", "organic": false, "category": "فواكه"},
+        {"id": "P007", "name": "بندورة", "name_en": "Tomatoes", "market_price": 5.0, "fallahy_price": 2.8, "unit": "kg", "quantity": 200, "harvest_date": "2026-06-26", "organic": false, "category": "خضار"},
+        {"id": "P008", "name": "كوسا", "name_en": "Zucchini", "market_price": 3.0, "fallahy_price": 1.8, "unit": "kg", "quantity": 90, "harvest_date": "2026-06-25", "organic": false, "category": "خضار"}
+      ]
+    },
+    {
+      "id": "F004",
+      "name": "مزرعة الغور الأردني",
+      "owner": "سامي العدوان",
+      "city": "غور الأردن",
+      "region": "الأردن",
+      "lat": 32.3000,
+      "lng": 35.6100,
+      "rating": 4.7,
+      "verified": true,
+      "phone": "+962799000004",
+      "story": "أجود إنتاج من غور الأردن، توصيل يومي للمدن القريبة.",
+      "products": [
+        {"id": "P009", "name": "خيار", "name_en": "Cucumber", "market_price": 4.0, "fallahy_price": 2.3, "unit": "kg", "quantity": 110, "harvest_date": "2026-06-26", "organic": true, "category": "خضار"},
+        {"id": "P010", "name": "فلفل حلو", "name_en": "Bell Pepper", "market_price": 5.5, "fallahy_price": 3.5, "unit": "kg", "quantity": 70, "harvest_date": "2026-06-25", "organic": true, "category": "خضار"}
+      ]
+    },
+    {
+      "id": "F005",
+      "name": "بيارة عودة",
+      "owner": "خليل عودة",
+      "city": "طولكرم",
+      "region": "فلسطين",
+      "lat": 32.3104,
+      "lng": 35.0286,
+      "rating": 4.5,
+      "verified": false,
+      "phone": "+970599000005",
+      "story": "حمضيات بلدية من بيارات طولكرم.",
+      "products": [
+        {"id": "P011", "name": "ليمون", "name_en": "Lemon", "market_price": 4.5, "fallahy_price": 2.7, "unit": "kg", "quantity": 130, "harvest_date": "2026-06-23", "organic": false, "category": "فواكه"},
+        {"id": "P012", "name": "تين", "name_en": "Figs", "market_price": 10.0, "fallahy_price": 6.5, "unit": "kg", "quantity": 35, "harvest_date": "2026-06-26", "organic": true, "category": "فواكه"}
+      ]
+    },
+    {
+      "id": "F006",
+      "name": "مزرعة إربد الخضراء",
+      "owner": "ليلى المومني",
+      "city": "إربد",
+      "region": "الأردن",
+      "lat": 32.5556,
+      "lng": 35.8500,
+      "rating": 4.8,
+      "verified": true,
+      "phone": "+962799000006",
+      "story": "خضار ورقية عضوية مزروعة بحب في إربد.",
+      "products": [
+        {"id": "P013", "name": "بندورة", "name_en": "Tomatoes", "market_price": 5.0, "fallahy_price": 3.2, "unit": "kg", "quantity": 95, "harvest_date": "2026-06-26", "organic": true, "category": "خضار"},
+        {"id": "P014", "name": "خس", "name_en": "Lettuce", "market_price": 2.5, "fallahy_price": 1.5, "unit": "piece", "quantity": 140, "harvest_date": "2026-06-26", "organic": true, "category": "خضار"}
+      ]
+    }
+  ]
+}

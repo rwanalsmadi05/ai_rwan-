@@ -1,0 +1,63 @@
+{
+  "description": "Daily market vs Fallahy prices (ILS/kg) for the last 14 days, used by the analytics + price ticker endpoints.",
+  "crops": {
+    "بندورة": {
+      "name_en": "Tomatoes",
+      "history": [
+        {"date": "2026-06-13", "market": 5.5, "fallahy": 3.3},
+        {"date": "2026-06-14", "market": 5.5, "fallahy": 3.2},
+        {"date": "2026-06-15", "market": 5.2, "fallahy": 3.1},
+        {"date": "2026-06-16", "market": 5.0, "fallahy": 3.0},
+        {"date": "2026-06-17", "market": 5.3, "fallahy": 3.1},
+        {"date": "2026-06-18", "market": 5.6, "fallahy": 3.2},
+        {"date": "2026-06-19", "market": 5.8, "fallahy": 3.4},
+        {"date": "2026-06-20", "market": 5.5, "fallahy": 3.3},
+        {"date": "2026-06-21", "market": 5.2, "fallahy": 3.1},
+        {"date": "2026-06-22", "market": 5.0, "fallahy": 3.0},
+        {"date": "2026-06-23", "market": 4.8, "fallahy": 2.9},
+        {"date": "2026-06-24", "market": 5.0, "fallahy": 3.0},
+        {"date": "2026-06-25", "market": 5.2, "fallahy": 3.0},
+        {"date": "2026-06-26", "market": 5.0, "fallahy": 3.0}
+      ]
+    },
+    "خيار": {
+      "name_en": "Cucumber",
+      "history": [
+        {"date": "2026-06-13", "market": 4.5, "fallahy": 2.8},
+        {"date": "2026-06-14", "market": 4.3, "fallahy": 2.7},
+        {"date": "2026-06-15", "market": 4.2, "fallahy": 2.6},
+        {"date": "2026-06-16", "market": 4.0, "fallahy": 2.5},
+        {"date": "2026-06-17", "market": 4.1, "fallahy": 2.5},
+        {"date": "2026-06-18", "market": 4.4, "fallahy": 2.7},
+        {"date": "2026-06-19", "market": 4.6, "fallahy": 2.8},
+        {"date": "2026-06-20", "market": 4.3, "fallahy": 2.6},
+        {"date": "2026-06-21", "market": 4.1, "fallahy": 2.5},
+        {"date": "2026-06-22", "market": 4.0, "fallahy": 2.5},
+        {"date": "2026-06-23", "market": 3.8, "fallahy": 2.4},
+        {"date": "2026-06-24", "market": 4.0, "fallahy": 2.5},
+        {"date": "2026-06-25", "market": 4.2, "fallahy": 2.5},
+        {"date": "2026-06-26", "market": 4.0, "fallahy": 2.5}
+      ]
+    },
+    "زيت زيتون": {
+      "name_en": "Olive Oil",
+      "history": [
+        {"date": "2026-06-13", "market": 36.0, "fallahy": 27.0},
+        {"date": "2026-06-16", "market": 35.5, "fallahy": 26.5},
+        {"date": "2026-06-20", "market": 35.0, "fallahy": 26.0},
+        {"date": "2026-06-24", "market": 35.0, "fallahy": 26.0},
+        {"date": "2026-06-26", "market": 35.0, "fallahy": 26.0}
+      ]
+    },
+    "ليمون": {
+      "name_en": "Lemon",
+      "history": [
+        {"date": "2026-06-13", "market": 4.8, "fallahy": 2.9},
+        {"date": "2026-06-16", "market": 4.6, "fallahy": 2.8},
+        {"date": "2026-06-20", "market": 4.5, "fallahy": 2.7},
+        {"date": "2026-06-24", "market": 4.4, "fallahy": 2.7},
+        {"date": "2026-06-26", "market": 4.5, "fallahy": 2.7}
+      ]
+    }
+  }
+}
